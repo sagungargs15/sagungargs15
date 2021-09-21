@@ -1,4 +1,4 @@
-## 👋 I'm Sagun, I mentor founders build better techstacks -> products -> startups
+## 👋 I'm Sagun, I mentor founders to build better techstacks -> products -> startups
 
 - 🔭 &nbsp;I’m currently turning around an AI/ML Startup in Predictive Data Intelligence Space :wink:
 - 🌱 &nbsp;I’m currently learning [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
