@@ -11,7 +11,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [(102: newbie Founder)The game of 1:99 odds ? You signed up for it Didn’t YOU ?](https://medium.com/@sagungarg/102-newbie-founder-the-game-of-1-99-odds-you-signed-up-for-it-didnt-you-4c8ccc7d02f1?source=rss-a4d148c7e377------2)
+- [&lpar;102: newbie Founder&rpar;The game of 1:99 odds ? You signed up for it Didn’t YOU ?](https://medium.com/@sagungarg/102-newbie-founder-the-game-of-1-99-odds-you-signed-up-for-it-didnt-you-4c8ccc7d02f1?source=rss-a4d148c7e377------2)
 - [[PM Role] How do I know if I’m succeeding as a Product Manager?](https://medium.com/@sagungarg/pm-role-how-do-i-know-if-im-succeeding-as-a-product-manager-6cf76f558983?source=rss-a4d148c7e377------2)
 - [[Using Python] Simple console version of a drawing program with limited functionality — Iron Man…](https://medium.com/@sagungarg/using-python-simple-console-version-of-a-drawing-program-with-limited-functionality-iron-man-e4e12128dfb2?source=rss-a4d148c7e377------2)
 - [[Bitcoin is Coming] 4 Billion of 6 Billion are unbanked/limit banked](https://medium.com/@sagungarg/4-billion-of-6-billion-are-unbanked-limit-banked-and-they-are-first-ones-to-get-disrupted-by-935deae8698a?source=rss-a4d148c7e377------2)
