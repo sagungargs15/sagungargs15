@@ -1,11 +1,11 @@
-## 👋 I'm Sagun, I mentor founders to build better techstacks -> products -> startups
+## 👋 I'm Sagun, :heart: :startup:s, I mentor Founders/CTOs to build better techstacks -> products -> startups
 
 - 🔭 &nbsp;I’m currently turning around an AI/ML Startup in Predictive Data Intelligence Space :wink:
 - 🌱 &nbsp;I’m currently learning [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
 - 💬 &nbsp;Ask me about anything related to building AI/ML Startups, Data Engineering and Data Products
 - 📫 &nbsp;How to reach me: [@sagungarg](https://twitter.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a>
 - 👨‍💻 &nbsp;Read more about my projects at [sagungarg.com](https://sagungarg.com/0-portfolio.html)
-- ⚡ &nbsp;Fun fact: I :heart: :startup:s
+- ⚡ &nbsp;Fun fact: I :heart: programming and can program in 7+ programming languages (Polyglot architectures)
 
 
 
