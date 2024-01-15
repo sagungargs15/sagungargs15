@@ -1,13 +1,24 @@
 ## 👋 I'm Sagun, :heart: :startups, I mentor Founders/CTOs to build better techstacks -> products -> startups
 
-- 🔭 &nbsp;I’m currently turning around an AI/ML Startup in Predictive Data Intelligence Space :wink:
-- 🌱 &nbsp;I’m currently learning [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
-- 💬 &nbsp;Ask me about anything related to building AI/ML Startups, Data Engineering and Data Products
-- 📫 &nbsp;How to reach me: [@sagungarg](https://twitter.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a>
-- 👨‍💻 &nbsp;Read more about my projects at [sagungarg.com](https://sagungarg.com/0-portfolio.html)
-- ⚡ &nbsp;Fun fact: I :heart: programming and can program in 7+ programming languages (Polyglot architectures)
+## 👋 I'm Sagun, I mentor founders to build better techstacks -> products -> startups
 
+- ⚡ &nbsp; Cheers to BUIDLers and HODLers across the world
+- 👋 &nbsp;I’m currently serving as Global Innovation Director - Technology & Engineering for listed Swiss Private Bank Julius Baer. 
+- 💬 &nbsp;Recently my nascent curiosity has been sparked in Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
+- 🌱 &nbsp;I’m currently experimenting with [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
+- 💬 &nbsp;Ask me about anything related to building AI/ML Startups, LLMs/RAG, Data Engineering & Devtools
+- 📫 &nbsp;How to reach me: [@sagungarg](https://twitter.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a> or [@sagungarg](https://www.linkedin.com/in/sagungarg/) 
+- 👨‍💻 &nbsp;Read more about my projects at [sagungarg.com](https://sagungarg.com/0-tech-portfolio)
+- ⚡ &nbsp;Fun fact: I :heart: Startups 0-1 phase the Genesis block for creation of capital markets. 
 
+# Brief Professional History: About me
+- 🌱 &nbsp;3 x CoFounder/CTO - AI/ML based ventures (Devtools, Proptech - 15+yrs Serial Entrepreneur): Role - Leading & Hiring Engineering teams for AI/ML products &  Fund Raising
+- ⚡ &nbsp;2 x CTO on Hire Pre-Series A startups in AI (Supply Chains and CareerTech): Role: Turning around scaling needs of startups for next round of fund raise. Both ventures respectively were in Singapore & Hong Kong
+- 👋 &nbsp;I have Angel Invested across 35+ US based startups in 5 domains (AI/ML, Bitcoin Native, SpaceTech, Longetivity Tech & Devtools) mostly focussing on Geo (US based startups only coinvesting with Reputed Silicon Valley Stalwarts) 
+- ⚡ &nbsp;Polyglot programmer (9+ programming languages in 3 different paradigms)
+- 👨‍💻 &nbsp; Hands on CTO with a flair to build 1st version of every product for my own fun. 
+- 📫 &nbsp;Deep understanding of interplay between Business, Product & Engineering tradeoffs in 0-1 phase vs 1-n phase. 
+- 👨‍💻 &nbsp; Winner of various Hackathons, Competitive Prizes and Ideathons for Startups across various cities in the world
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
