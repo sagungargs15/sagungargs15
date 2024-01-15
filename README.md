@@ -1,7 +1,5 @@
 ## 👋 I'm Sagun, :heart: :startups, I mentor Founders/CTOs to build better techstacks -> products -> startups
 
-## 👋 I'm Sagun, I mentor founders to build better techstacks -> products -> startups
-
 - ⚡ &nbsp; Cheers to BUIDLers and HODLers across the world
 - 👋 &nbsp;I’m currently serving as Global Innovation Director - Technology & Engineering for listed Swiss Private Bank Julius Baer. 
 - 💬 &nbsp;Recently my nascent curiosity has been sparked in Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
