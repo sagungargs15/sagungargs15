@@ -1,11 +1,30 @@
 ## 👋 I'm Sagun, :heart: :startups, I mentor Founders/CTOs to build better techstacks -> products -> startups
 
 - ⚡ &nbsp; Cheers to BUIDLers and HODLers across the world
-- 👋 &nbsp;I’m currently serving as Global Innovation Director - Technology & Engineering for listed Swiss Private Bank Julius Baer. 
-- 💬 &nbsp;Recently my nascent curiosity has been sparked in Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
-- 🌱 &nbsp;I’m currently experimenting with [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
-- 💬 &nbsp;Ask me about anything related to building AI/ML Startups, LLMs/RAG, Data Engineering & Devtools
-- 📫 &nbsp;How to reach me: [@sagungarg](https://twitter.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a> or [@sagungarg](https://www.linkedin.com/in/sagungarg/) 
+            a. Polyglot programmer (9+ programming languages in 3 different paradigms)
+            b. Cyberpunk Computer Science / Security Protocols Engineer
+            c. Professional Expertise in Domains: Bitcoin/Digital Assets, AI/ML & Private Banking(Wealth Management)
+            d. Prior Experience: 13+ yrs AI/ML experience of buildings models, platforms and startups leveraging applied AI for my own 3 startups.
+            e. Managerial & Fund Raising Experience: VC Funding, BootStrapping and Innovation Budgets annually 1-5mn$ USD for building and engineering
+- Cyberpunk Computer Science / Security Protocols Engineer  
+- 👋 &nbsp; I’m currently serving as Global Innovation Director - Technology & Engineering for listed Swiss Private Bank Julius Baer.
+- ₿ &nbsp; Bitcoin Maxi Class of 2013:
+           a. Building Vault: Open source Enterprise self-Custody 3rd party Infra platform for Private banks to upgrade to Bitcoin Standard offerings
+           b. Angel Investor in 28+ Bitcoin Native Startups and counting
+           c. Bitcoin Specific Interest(s): Miniscript/Bitcoin Inheritance, Hardware Wallets and Multi-Sig Technical Insurance
+           d. Key Note Speaker/Panelist in Global Bitcoin Conferences
+                  i. United States - Bitcoin's Role in Traditional Banks [link: 25th July 2024](https://www.youtube.com/watch?v=XugPQ2cDZu8&t=925s)
+                  ii. Hong Kong - Miniscript: Bitcoin Inheritance Planning [link: 10th May 2024](https://youtu.be/76lVeHxGh_A)
+           e. Fun Bitcoin Stories
+                  i. He got his first Trezor from OG Slush in person at the Shanghai conference in 2014 and bought his Bitcoin via an ATM in Shanghai. He has been a big believer in self custody of keys ever since (Not your keys not your stash)
+                  ii. 10+ yrs in Bitcoin (Class of 2013) as a Bitcoin Maxi, a Bitcoin Globe trotter from Shanghai, Bangalore, NewYork, Las Vegas, Ireland, Austin, Hong Kong, Prague, Lugano, Zurich and Amsterdam attending Bitcoin Conferences and meetups orange pilling my extended family and friends
+                  iii. Often founders pick his brains for 3 capabilities: CTO/Architect, Product Market Fit and VC/Founder Hat
+- 🌱 &nbsp; Recently my nascent curiosity & Fun experiments in
+           a. Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
+           b. Model Packaging & GenAI related technologies: [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate)
+           c. 
+- 💬 &nbsp; Ask me about anything related to building AI/ML Startups, LLMs/RAG, Data Engineering & Devtools
+- 📫 &nbsp; How to reach me: [@sagungarg](https://twitter.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a> or [@sagungarg](https://www.linkedin.com/in/sagungarg/) 
 - 👨‍💻 &nbsp;Read more about my projects at [sagungarg.com](https://sagungarg.com/0-tech-portfolio)
 - ⚡ &nbsp;Fun fact: I :heart: Startups 0-1 phase the Genesis block for creation of capital markets. 
 
