@@ -1,14 +1,12 @@
-## 👋 I'm Sagun, :heart: :startups, I mentor Founders/CTOs to build better techstacks -> products -> startups
-
-- ⚡ &nbsp; Cheers to BUIDLers and HODLers across the world
-    - Polyglot programmer (9+ programming languages in 3 different paradigms)
-    - Cyberpunk Computer Science / Security Protocols Engineer:  Open sourceBitcoin Enterprise Custody Vaults [OpenVaults](https://github.com/sagungargs15/openvault)
+## 👋 I'm [Sagun](https://www.linkedin.com/in/sagungarg/), :heart: :startups, I mentor Founders/CTOs to build better techstacks -> products -> startups
+- 👋 &nbsp; I’m currently serving as Global Innovation Director - Technology & Engineering for listed Swiss Private [Bank Julius Baer](https://www.juliusbaer.com/).
+- ⚡ &nbsp; Prior Experience: 15+ yrs AI/ML experience 
     - Professional Expertise in Domains: Bitcoin/Digital Assets, AI/ML & Private Banking(Wealth Management)
-    - Prior Experience: 15+ yrs AI/ML experience of buildings models, platforms and startups leveraging applied AI for my own 3 startups.
-    - Managerial & Fund Raising Experience: VC Funding, BootStrapping and Innovation Budgets annually 1-5mn$ USD for building and engineering
-- Cyberpunk Computer Science / Security Protocols Engineer  
-- 👋 &nbsp; I’m currently serving as Global Innovation Director - Technology & Engineering for listed Swiss Private Bank Julius Baer.
-- ₿ &nbsp; Bitcoin Maxi Class of 2013:
+    - Buildings models, platforms and startups leveraging applied AI for my own 3 startups(Polymath AI, Nexchanges Technology and Black & White).
+    - Venture Capital & Bootstrapping Experience: VC Funding, BootStrapping and Innovation Budgets annually 1-5mn$ USD for building and engineering
+    - Polyglot programmer (9+ programming languages in 3 different paradigms - Functional, Imperative & OOPs)
+- ₿ &nbsp; Bitcoin Maxi Class of 2013: Cheers to BUIDLers and HODLers across the world
+    - Cyberpunk Computer Science / Security Protocols Engineer:  Open sourceBitcoin Enterprise Custody Vaults [OpenVaults](https://github.com/sagungargs15/openvault)  
     - Fun Project Vault: Open source Enterprise self-Custody 3rd party Infra platform for Private banks to upgrade to Bitcoin Standard offerings
     - Angel Investor in 28+ Bitcoin Native Startups and counting
     - Bitcoin Specific Interest(s): Miniscript/Bitcoin Inheritance, Hardware Wallets and Multi-Sig Technical Insurance
