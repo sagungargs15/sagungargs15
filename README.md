@@ -2,7 +2,7 @@
 
 - ⚡ &nbsp; Cheers to BUIDLers and HODLers across the world
     - Polyglot programmer (9+ programming languages in 3 different paradigms)
-    - Cyberpunk Computer Science / Security Protocols Engineer
+    - Cyberpunk Computer Science / Security Protocols Engineer:  Open sourceBitcoin Enterprise Custody Vaults [OpenVaults](https://github.com/sagungargs15/openvault)
     - Professional Expertise in Domains: Bitcoin/Digital Assets, AI/ML & Private Banking(Wealth Management)
     - Prior Experience: 15+ yrs AI/ML experience of buildings models, platforms and startups leveraging applied AI for my own 3 startups.
     - Managerial & Fund Raising Experience: VC Funding, BootStrapping and Innovation Budgets annually 1-5mn$ USD for building and engineering
