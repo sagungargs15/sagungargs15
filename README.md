@@ -6,7 +6,7 @@
     - Venture Capital & Bootstrapping Experience: VC Funding, BootStrapping and Innovation Budgets annually 1-5mn$ USD for building and engineering
     - Polyglot programmer (9+ programming languages in 3 different paradigms - Functional, Imperative & OOPs)
 - ₿ &nbsp; Bitcoin Maxi Class of 2013: Cheers to BUIDLers and HODLers across the world
-    - Cyberpunk Computer Science / Security Protocols Engineer:  Open sourceBitcoin Enterprise Custody Vaults [OpenVaults](https://github.com/sagungargs15/openvault)  
+    - Cyberpunk Computer Science / Security Protocols Engineer:  Open sourceBitcoin Enterprise Custody Vaults [OpenVault](https://github.com/sagungargs15/openvault)  
     - Fun Project Vault: Open source Enterprise self-Custody 3rd party Infra platform for Private banks to upgrade to Bitcoin Standard offerings
     - Angel Investor in 28+ Bitcoin Native Startups and counting
     - Bitcoin Specific Interest(s): Miniscript/Bitcoin Inheritance, Hardware Wallets and Multi-Sig Technical Insurance
