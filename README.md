@@ -21,7 +21,7 @@
     - Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
     - Model Packaging & GenAI related technologies: [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate) 
 - 💬 &nbsp; Ask me about anything related to building AI/ML Startups, LLMs/RAG, Data Engineering & Devtools
-- 📫 &nbsp; How to reach me: [@sagungarg](https://twitter.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a> or [@sagungarg](https://www.linkedin.com/in/sagungarg/) 
+- 📫 &nbsp; How to reach me: [X/Twitter](https://x.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a> or [Linkedin](https://www.linkedin.com/in/sagungarg/) or [Telegram](https://web.telegram.org/k/#@sagungarg)
 - 👨‍💻 &nbsp;Read more about my projects at [sagungarg.com](https://sagungarg.com/0-tech-portfolio)
 - ⚡ &nbsp;Fun fact: I :heart: Startups 0-1 phase the Genesis block for creation of capital markets. 
 
