@@ -9,7 +9,7 @@
     - Cyberpunk Computer Science / Security Protocols Engineer:  Open sourceBitcoin Enterprise Custody Vaults [OpenVault](https://github.com/sagungargs15/openvault)  
     - Fun Project Vault: Open source Enterprise self-Custody 3rd party Infra platform for Private banks to upgrade to Bitcoin Standard offerings
     - Angel Investor in 28+ Bitcoin Native Startups and counting
-    - Bitcoin Specific Interest(s): Miniscript/Bitcoin Inheritance, Hardware Wallets and Multi-Sig Technical Insurance
+    - Bitcoin Specific Interest(s): Bitcoin Enterprise Collaborative Custody, Miniscript/Bitcoin Inheritance, Hardware Wallets and Multi-Sig Technical Insurance
     - Key Note Speaker/Panelist in Global Bitcoin Conferences
         - United States - Bitcoin's Role in Traditional Banks [link: 25th July 2024](https://www.youtube.com/watch?v=XugPQ2cDZu8&t=925s)
         - Hong Kong - Miniscript: Bitcoin Inheritance Planning [link: 10th May 2024](https://youtu.be/76lVeHxGh_A)
