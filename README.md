@@ -4,7 +4,7 @@
 - 11+ yrs in Bitcoin (Class of 2013) as a Bitcoin maxi, a Bitcoin thought leader from NewYork, Las Vegas, Singapore, Shanghai, Bangalore, Ireland, Austin, Hong Kong, Prague, Lugano, Zurich and Amsterdam speaking at various Bitcoin Conferences and meetups to encourage adoption of Bitcoin.
 - Open source Contributions
     - Bitcoin Enterprise Custody Vaults [OpenVault](https://github.com/sagungargs15/openvault) - OnPrem/Self Hosted self custody wallet Infra for SMEs/NGOs just like BTCPayserver
-    - Building hands on Rust workbook for async learning concepts in Bitcoin using Rust (Inspiration: [Brown University](https://rust-book.cs.brown.edu/) and [Bevy Cheatbook](https://bevy-cheatbook.github.io/)
+    - Building hands on [Bitcoin Rust Cheatbook](https://github.com/sagungargs15/rsbtc-cheatbook) for asyncrhonous self paced "learning by doing" as an onboarding tool for new bitcoin developers to use rust to start contributing towards BOSS program projects at Chaincode. My inspiration is other workbooks in Rust: [Brown University](https://rust-book.cs.brown.edu/) and [Bevy Cheatbook](https://bevy-cheatbook.github.io/)
     - AI agents for Payments
     - BTC Transcripts Contributor
 - Angel Investor in 28+ Bitcoin Native Startups out of 42+ portfolio
