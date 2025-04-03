@@ -1,10 +1,10 @@
 # Bitcoin Background
 - ₿ &nbsp; Bitcoin Class of 2013
 - Cypherpunk Security Protocols Engineer - B-Tech in Computer Science from [DA-IICT](https://www.daiict.ac.in/)
-- 11+ yrs in Bitcoin (Class of 2013) as a Bitcoin Maxi, a Bitcoin thought leader from NewYork, Las Vegas, Shanghai, Bangalore, Ireland, Austin, Hong Kong, Prague, Lugano, Zurich and Amsterdam speaking at various Bitcoin Conferences and meetups to encourage adoption of Bitcoin.
+- 11+ yrs in Bitcoin (Class of 2013) as a Bitcoin maxi, a Bitcoin thought leader from NewYork, Las Vegas, Singapore, Shanghai, Bangalore, Ireland, Austin, Hong Kong, Prague, Lugano, Zurich and Amsterdam speaking at various Bitcoin Conferences and meetups to encourage adoption of Bitcoin.
 - Open source Contributions
     - Bitcoin Enterprise Custody Vaults [OpenVault](https://github.com/sagungargs15/openvault) - OnPrem/Self Hosted self custody wallet Infra for SMEs/NGOs just like BTCPayserver
-    - Building Hands on Rust Workbook for Async learning Concepts in Bitcoin using Rust (Inspiration: Brown University and 
+    - Building hands on Rust workbook for async learning concepts in Bitcoin using Rust (Inspiration: [Brown University](https://rust-book.cs.brown.edu/) and [Bevy Cheatbook](https://bevy-cheatbook.github.io/)
     - AI agents for Payments
     - BTC Transcripts Contributor
 - Angel Investor in 28+ Bitcoin Native Startups out of 42+ portfolio
