@@ -1,21 +1,37 @@
-## 👋 I'm [Sagun](https://www.linkedin.com/in/sagungarg/), :heart: :startups, I mentor Founders/CTOs to build better techstacks -> products -> startups
+# Bitcoin Background
+- ₿ &nbsp; Bitcoin Class of 2013
+- Cypherpunk Security Protocols Engineer - B-Tech in Computer Science from [DA-IICT](https://www.daiict.ac.in/)
+- 11+ yrs in Bitcoin (Class of 2013) as a Bitcoin Maxi, a Bitcoin thought leader from NewYork, Las Vegas, Shanghai, Bangalore, Ireland, Austin, Hong Kong, Prague, Lugano, Zurich and Amsterdam speaking at various Bitcoin Conferences and meetups to encourage adoption of Bitcoin.
+- Open source Contributions
+    - Bitcoin Enterprise Custody Vaults [OpenVault](https://github.com/sagungargs15/openvault) - OnPrem/Self Hosted self custody wallet Infra for SMEs/NGOs just like BTCPayserver
+    - Building Hands on Rust Workbook for Async learning Concepts in Bitcoin using Rust (Inspiration: Brown University and 
+    - AI agents for Payments
+    - BTC Transcripts Contributor
+- Angel Investor in 28+ Bitcoin Native Startups out of 42+ portfolio
+    - Bitcoin Specific Interest(s): Bitcoin Enterprise Collaborative Custody, Miniscript/Bitcoin Inheritance, Hardware Wallets and Multi-Sig Technical Insurance
+    - Key Note Speaker/Panelist in Global Bitcoin Conferences
+        - United States - Bitcoin's Role in Traditional Banks [link: 25th July 2024](https://www.youtube.com/watch?v=XugPQ2cDZu8&t=925s)
+        - Hong Kong - Miniscript: Bitcoin Inheritance Planning [link: 10th May 2024](https://youtu.be/76lVeHxGh_A)
+    - Fun Bitcoin Stories:
+        - He got his first Trezor from OG Slush in person at the Shanghai conference in 2014 and bought his Bitcoin via an ATM in Shanghai. He has been a big believer in self custody of keys ever since (Not your keys not your Coins)
+        
+# Brief Professional History: About me
 - 👋 &nbsp; I’m currently serving as Global Innovation Director - Technology & Engineering for listed Swiss Private [Bank Julius Baer](https://www.juliusbaer.com/).
+- 🌱 &nbsp;    3 x CoFounder/CTO - AI/ML based ventures (Devtools, Proptech - 15+yrs Serial Entrepreneur): Role - Product Vision, Fund Raising & Hiring Engineering teams
+- ⚡ &nbsp;     2 x CTO on Hire Pre-Series A startups in AI (Risk management in Supply Chains and CareerTech): Role: Turning around scaling needs of startups for next round of fund raise. Both ventures respectively were in Singapore & Hong Kong
+- 👋 &nbsp;    I have angel invested across 42+ US based startups in 3 domains (Bitcoin, GenAI/ML & DevTools) mostly focussing on US coinvesting with industry leaders) 
+- ⚡  &nbsp;    Polyglot programmer (9+ programming languages in 3 different paradigms)
+- 👨‍💻 &nbsp;    Hands on CTO with a flair to build 1st version of every product for my own fun. 
+- 📫 &nbsp;    Deep understanding of interplay between business, product & engineering tradeoffs in 0-1 phase vs 1-n phase. 
+- 👨‍💻 &nbsp;    Winner of various hackathons, competitive prizes and ideathons for startups across various cities in the world
+
+# 👋 I'm [Sagun](https://www.linkedin.com/in/sagungarg/), :heart: :startups, I mentor Founders/CTOs to build better techstacks -> products -> startups
 - ⚡ &nbsp; Prior Experience: 15+ yrs AI/ML experience 
     - Professional Expertise in Domains: Bitcoin/Digital Assets, AI/ML & Private Banking(Wealth Management)
     - Buildings models, platforms and startups leveraging applied AI for my own 3 startups(Polymath AI, Nexchanges Technology and Black & White).
     - Venture Capital & Bootstrapping Experience: VC Funding, BootStrapping and Innovation Budgets annually 1-5mn$ USD for building and engineering
     - Polyglot programmer (9+ programming languages in 3 different paradigms - Functional, Imperative & OOPs)
-- ₿ &nbsp; Bitcoin Maxi Class of 2013: Cheers to BUIDLers and HODLers across the world
-    - Cyberpunk Computer Science / Security Protocols Engineer:  Open sourceBitcoin Enterprise Custody Vaults [OpenVault](https://github.com/sagungargs15/openvault)  
-    - Fun Project Vault: Open source Enterprise self-Custody 3rd party Infra platform for Private banks to upgrade to Bitcoin Standard offerings
-    - Angel Investor in 28+ Bitcoin Native Startups and counting
-    - Bitcoin Specific Interest(s): Bitcoin Enterprise Collaborative Custody, Miniscript/Bitcoin Inheritance, Hardware Wallets and Multi-Sig Technical Insurance
-    - Key Note Speaker/Panelist in Global Bitcoin Conferences
-        - United States - Bitcoin's Role in Traditional Banks [link: 25th July 2024](https://www.youtube.com/watch?v=XugPQ2cDZu8&t=925s)
-        - Hong Kong - Miniscript: Bitcoin Inheritance Planning [link: 10th May 2024](https://youtu.be/76lVeHxGh_A)
-    - Fun Bitcoin Stories
-        - He got his first Trezor from OG Slush in person at the Shanghai conference in 2014 and bought his Bitcoin via an ATM in Shanghai. He has been a big believer in self custody of keys ever since (Not your keys not your stash)
-        - 10+ yrs in Bitcoin (Class of 2013) as a Bitcoin Maxi, a Bitcoin Globe trotter from Shanghai, Bangalore, NewYork, Las Vegas, Ireland, Austin, Hong Kong, Prague, Lugano, Zurich and Amsterdam attending Bitcoin Conferences and meetups orange pilling my extended family and friends
+
         - Often founders pick his brains for 3 capabilities: CTO/Architect, Product Market Fit and VC/Founder Hat
 - 🌱 &nbsp; Recently my nascent curiosity & Fun experiments in
     - Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
@@ -24,15 +40,6 @@
 - 📫 &nbsp; How to reach me: [X/Twitter](https://x.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a> or [Linkedin](https://www.linkedin.com/in/sagungarg/) or [Telegram](https://web.telegram.org/k/#@sagungarg)
 - 👨‍💻 &nbsp;Read more about my projects at [sagungarg.com](https://sagungarg.com/0-tech-portfolio)
 - ⚡ &nbsp;Fun fact: I :heart: Startups 0-1 phase the Genesis block for creation of capital markets. 
-
-# Brief Professional History: About me
-- 🌱 &nbsp;3 x CoFounder/CTO - AI/ML based ventures (Devtools, Proptech - 15+yrs Serial Entrepreneur): Role - Leading & Hiring Engineering teams for AI/ML products &  Fund Raising
-- ⚡ &nbsp;2 x CTO on Hire Pre-Series A startups in AI (Supply Chains and CareerTech): Role: Turning around scaling needs of startups for next round of fund raise. Both ventures respectively were in Singapore & Hong Kong
-- 👋 &nbsp;I have Angel Invested across 35+ US based startups in 5 domains (AI/ML, Bitcoin Native, SpaceTech, Longetivity Tech & Devtools) mostly focussing on Geo (US based startups only coinvesting with Reputed Silicon Valley Stalwarts) 
-- ⚡ &nbsp;Polyglot programmer (9+ programming languages in 3 different paradigms)
-- 👨‍💻 &nbsp; Hands on CTO with a flair to build 1st version of every product for my own fun. 
-- 📫 &nbsp;Deep understanding of interplay between Business, Product & Engineering tradeoffs in 0-1 phase vs 1-n phase. 
-- 👨‍💻 &nbsp; Winner of various Hackathons, Competitive Prizes and Ideathons for Startups across various cities in the world
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
