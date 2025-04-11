@@ -2,16 +2,28 @@
 - ₿ &nbsp; Bitcoin Class of 2013
 - Cypherpunk Security Protocols Engineer - B-Tech in Computer Science from [DA-IICT](https://www.daiict.ac.in/)
 - 11+ yrs in Bitcoin (Class of 2013) as a Bitcoin maxi, a Bitcoin thought leader speaking at NewYork, Las Vegas, Singapore, Shanghai, Bangalore, Ireland, Austin, Hong Kong, Prague, Lugano, Zurich and Amsterdam speaking at various Bitcoin Conferences and meetups to encourage adoption of Bitcoin.
-- Open source Contributions
+- Open source Bitcoin Contributions
     - Bitcoin Enterprise Custody Vaults [OpenVault](https://github.com/sagungargs15/openvault) - OnPrem/Self Hosted self custody wallet Infra for SMEs/NGOs just like BTCPayserver
     - Building hands on guide [Bitcoin Rust Cheatbook](https://github.com/sagungargs15/rsbtc-cheatbook) for asyncrhonous self paced "learning by doing" as an onboarding tool for new bitcoin developers to use rust to start contributing towards BOSS program projects at Chaincode.
-    - AI agents for Payments / DAMP Protocol - [OpenAutoPay](https://github.com/sagungargs15/openautopay) - Mesh of L402, MCP, and Nostr
+    - L402 AI agents for Payments / DAMP Protocol - [OpenAutoPay](https://github.com/sagungargs15/openautopay) - Mesh of L402, MCP, and Nostr
+    - Bitcoin Mesh L2 Interoperability - [OpenGlue]() - Mesh of 
     - BTC Transcripts Reviewer on [btctranscripts.com](https://btctranscripts.com/) - [Transcript Example](https://github.com/bitcointranscripts/bitcointranscripts/pull/524)
 - Angel Investor in 28+ Bitcoin Native Startups out of 42+ portfolio
     - Bitcoin Specific Interest(s): Bitcoin Enterprise Collaborative Custody, Miniscript/Bitcoin Inheritance, Hardware Wallets and Multi-Sig Technical Insurance
-    - Key Note Speaker/Panelist in Global Bitcoin Conferences
-        - United States - Bitcoin's Role in Traditional Banks [link: 25th July 2024](https://www.youtube.com/watch?v=XugPQ2cDZu8&t=925s)
-        - Hong Kong - Miniscript: Bitcoin Inheritance Planning [link: 10th May 2024](https://youtu.be/76lVeHxGh_A)
+    - Key Note Speaker/Panelist in Global Bitcoin Conferences:
+        - Apr25: Hong Kong: Web3 Festival - Bitcoin Stage: “Bitcoin as next global reserve asset” (link pending)
+        - Apr25: Hong Kong: Web3 Festival - Bitcoin Stage: “Bitcoin pizza in new Age” (link pending)
+        - Feb25: Hong Kong: Consensus Lightning Connect: "​Breaking Barriers: How Lightning Unlocks P2P Money" (link pending)
+        - Feb25: Hong Kong: Digital Assets Week: "Are custody providers adequately supporting the needs of tokenization?": (link pending)
+        - Jan25: USA NY: Access US2025 at NYSE: "Enhancing DLT Security: strategies for sisk, compliance, and integrity": [link](https://youtu.be/ugYuK_ZPKrE?si=JkouLZDcUMGPjcKN)
+        - Dec24: Abu Dhabi: Bitcoin MENA Conference: "Building The tools for institutional adoption: hardware & software": [link](https://youtu.be/pR6amAYQvPg?si=gKid__D9KQOzwIxi) 
+        - Oct24: USA Atlanta: TabConf6: "Architectural nuances of FOSS based enterprise custody bitcoin wallet for SMEs/Non-profits"
+        - Oct24: Netherlands BTC Conference: "Bitcoin wealth and inheritance planning" - (link pending)
+        - Sept24: Podcast - Intersection of Bitcoin and AI: How AI will cause hyperdeflation - [link](https://youtu.be/kvX7QBVNL_M?si=UNpcI7ah2jbgIfy5)
+        - Sept24: SG BTC Conference: "HyperDeflation, Bitcoin hyperbitcoinization era & future of wealth banking" - [link](https://youtu.be/GLLea0GZ_ro?si=ZZHXTWStD6V4Yt8n)
+        - Sept24: Thailand BTC Conf.: "Redistribution of wealth in era of hyperbitcoinization - BTC future of digital private banks"- [link](https://youtu.be/g_qglws0r38?si=ubn1mnNTodtC55pn)
+        - July24: United States - Bitcoin's role in traditional banks [link](https://www.youtube.com/watch?v=XugPQ2cDZu8&t=925s)
+        - May 24: Hong Kong - Miniscript: Bitcoin inheritance planning [link](https://youtu.be/76lVeHxGh_A)
     - Fun Bitcoin Stories:
         - He got his first Trezor from OG Slush in person at the Shanghai conference in 2014 and bought his Bitcoin via an ATM in Shanghai. He has been a big believer in self custody of keys ever since (Not your keys not your Coins)
         
