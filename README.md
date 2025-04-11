@@ -1,10 +1,10 @@
 # Bitcoin Background
 - ₿ &nbsp; Bitcoin Class of 2013
 - Cypherpunk Security Protocols Engineer - B-Tech in Computer Science from [DA-IICT](https://www.daiict.ac.in/)
-- 11+ yrs in Bitcoin (Class of 2013) as a Bitcoin maxi, a Bitcoin thought leader from NewYork, Las Vegas, Singapore, Shanghai, Bangalore, Ireland, Austin, Hong Kong, Prague, Lugano, Zurich and Amsterdam speaking at various Bitcoin Conferences and meetups to encourage adoption of Bitcoin.
+- 11+ yrs in Bitcoin (Class of 2013) as a Bitcoin maxi, a Bitcoin thought leader speaking at NewYork, Las Vegas, Singapore, Shanghai, Bangalore, Ireland, Austin, Hong Kong, Prague, Lugano, Zurich and Amsterdam speaking at various Bitcoin Conferences and meetups to encourage adoption of Bitcoin.
 - Open source Contributions
     - Bitcoin Enterprise Custody Vaults [OpenVault](https://github.com/sagungargs15/openvault) - OnPrem/Self Hosted self custody wallet Infra for SMEs/NGOs just like BTCPayserver
-    - Building hands on guide [Bitcoin Rust Cheatbook](https://github.com/sagungargs15/rsbtc-cheatbook) for asyncrhonous self paced "learning by doing" as an onboarding tool for new bitcoin developers to use rust to start contributing towards BOSS program projects at Chaincode. My inspiration is other workbooks in Rust: [Brown University](https://rust-book.cs.brown.edu/) and [Bevy Cheatbook](https://bevy-cheatbook.github.io/)
+    - Building hands on guide [Bitcoin Rust Cheatbook](https://github.com/sagungargs15/rsbtc-cheatbook) for asyncrhonous self paced "learning by doing" as an onboarding tool for new bitcoin developers to use rust to start contributing towards BOSS program projects at Chaincode.
     - AI agents for Payments / DAMP Protocol - [OpenAutoPay](https://github.com/sagungargs15/openautopay) - Mesh of L402, MCP, and Nostr
     - BTC Transcripts Reviewer on [btctranscripts.com](https://btctranscripts.com/) - [Transcript Example](https://github.com/bitcointranscripts/bitcointranscripts/pull/524)
 - Angel Investor in 28+ Bitcoin Native Startups out of 42+ portfolio
@@ -31,15 +31,15 @@
     - Buildings models, platforms and startups leveraging applied AI for my own 3 startups(Polymath AI, Nexchanges Technology and Black & White).
     - Venture Capital & Bootstrapping Experience: VC Funding, BootStrapping and Innovation Budgets annually 1-5mn$ USD for building and engineering
     - Polyglot programmer (9+ programming languages in 3 different paradigms - Functional, Imperative & OOPs)
-
-        - Often founders pick his brains for 3 capabilities: CTO/Architect, Product Market Fit and VC/Founder Hat
-- 🌱 &nbsp; Recently my nascent curiosity & Fun experiments in
-    - Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
-    - Model Packaging & GenAI related technologies: [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate) 
-- 💬 &nbsp; Ask me about anything related to building AI/ML Startups, LLMs/RAG, Data Engineering & Devtools
-- 📫 &nbsp; How to reach me: [X/Twitter](https://x.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a> or [Linkedin](https://www.linkedin.com/in/sagungarg/) or [Telegram](https://web.telegram.org/k/#@sagungarg)
-- 👨‍💻 &nbsp;Read more about my projects at [sagungarg.com](https://sagungarg.com/0-tech-portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: Startups 0-1 phase the Genesis block for creation of capital markets. 
+    - Often founders pick his brains for 3 capabilities: CTO/Architect, Product Market Fit and VC/Founder Hat
+    - 🌱 &nbsp; Recently my nascent curiosity & Fun experiments in
+        - Rust: [Brown University](https://rust-book.cs.brown.edu/) and [Bevy Cheatbook](https://bevy-cheatbook.github.io/)
+        - Quantum Computing influencing AI/ML space, Gene Therapy leveraging AI and LLMs on edge computing devices. 
+        - Model Packaging & GenAI related technologies: [Replicate](https://replicate.ai/), [Data Catalogs](https://www.amundsen.io/) & [Vector Search Engines](https://github.com/semi-technologies/weaviate) 
+        - 💬 &nbsp; Ask me about anything related to building AI/ML Startups, LLMs/RAG, Data Engineering & Devtools
+        - 📫 &nbsp; How to reach me: [X/Twitter](https://x.com/sagungarg) or <a rel="me" href="https://sagungarg.com">sagungarg.com</a> or [Linkedin](https://www.linkedin.com/in/sagungarg/) or [Telegram](https://web.telegram.org/k/#@sagungarg)
+        - 👨‍💻 &nbsp;Read more about my projects at [sagungarg.com](https://sagungarg.com/0-tech-portfolio)
+        - ⚡ &nbsp;Fun fact: I :heart: Startups 0-1 phase the Genesis block for creation of capital markets. 
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
