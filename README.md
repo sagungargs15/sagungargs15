@@ -6,7 +6,7 @@
     - Bitcoin Enterprise Custody Vaults [OpenVault](https://github.com/sagungargs15/openvault) - OnPrem/Self Hosted self custody wallet Infra for SMEs/NGOs just like BTCPayserver
     - Building hands on guide [Bitcoin Rust Cheatbook](https://github.com/sagungargs15/rsbtc-cheatbook) for asyncrhonous self paced "learning by doing" as an onboarding tool for new bitcoin developers to use rust to start contributing towards BOSS program projects at Chaincode.
     - L402 AI agents for Payments / DAMP Protocol - [OpenAutoPay](https://github.com/sagungargs15/openautopay) - Mesh of L402, MCP, and Nostr
-    - Bitcoin Mesh L2 Interoperability - [OpenGlue]() - Mesh of 
+    - Bitcoin Mesh L2 Interoperability - [OpenGlue](https://github.com/sagungargs15/OpenGlue) - Mesh of Bitcoin L2s for seamless interoperability
     - BTC Transcripts Reviewer on [btctranscripts.com](https://btctranscripts.com/) - [Transcript Example](https://github.com/bitcointranscripts/bitcointranscripts/pull/524)
 - Angel Investor in 28+ Bitcoin Native Startups out of 42+ portfolio
     - Bitcoin Specific Interest(s): Bitcoin Enterprise Collaborative Custody, Miniscript/Bitcoin Inheritance, Hardware Wallets and Multi-Sig Technical Insurance
